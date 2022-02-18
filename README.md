@@ -2,7 +2,7 @@
 
 这里是Clarmy的代码库，我会在这里分享我的开源项目。
 
-以下是目前我比较重视的几个项目，欢迎提交Issue或PR：
+以下是我最近开发和维护的几个项目，欢迎提交Issue或PR：
 
 1. [cnmaps](https://github.com/Clarmy/cnmaps): 一个让中国地图画起来更丝滑的Python扩展包
 2. [mplfonts](https://github.com/Clarmy/mplfonts): 一种解决matplotlib中文字体的问题的优雅方式
