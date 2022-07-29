@@ -1,6 +1,6 @@
 ### 大家好 👋
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/clarmy/clarmy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/clarmy/clarmy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 这里是Clarmy的代码库，我会在这里分享我的开源项目。
 
