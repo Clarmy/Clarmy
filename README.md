@@ -1,22 +1,19 @@
-### 大家好 👋
+### Hi there 👋
 ![github contribution grid snake animation](https://raw.githubusercontent.com/clarmy/clarmy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/clarmy/clarmy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+Hi, I'm Clarmy, a meteorologist working in Beijing, China. I'm an open-source enthusiast, and I enjoy abstracting practical needs from my work, developing them into various Python extension packages for more people to use. My primary focus is the Python programming language.
 
-这里是Clarmy的代码库，我会在这里分享我的开源项目。
+Below are a few projects that I've recently developed and maintained, feel free to submit Issues or Pull Requests:
 
-以下是我最近开发和维护的几个项目，欢迎提交Issue或PR：
+* [cnmaps](https://github.com/Clarmy/cnmaps): A Python extension package that smoothens the drawing of maps of China.
+* [cyeva](https://github.com/caiyunapp/cyeva): A universal deterministic forecast accuracy evaluation tool package.
+* [mplfonts](https://github.com/Clarmy/mplfonts): An elegant solution to the problem of Chinese fonts in matplotlib.
+* [pyterrain](https://github.com/Clarmy/pyterrain): A Python extension package that simplifies the acquisition of DEM data.
+* [pydingbot](https://github.com/Clarmy/pydingbot): A Python extension package that enhances the usage of DingTalk bots.
+* [pymetaf](https://github.com/Clarmy/pymetaf): A Python extension package for parsing aviation METAR/TAF messages.
+* [MeteoDataFormatNote](https://github.com/Clarmy/MeteoDataFormatNote): Meteorological data format notes.
 
-1. [cnmaps](https://github.com/Clarmy/cnmaps): 一个让中国地图画起来更丝滑的Python扩展包
-2. [cyeva](https://github.com/caiyunapp/cyeva): 一个通用的确定性预报准确率测评工具包
-3. [mplfonts](https://github.com/Clarmy/mplfonts): 一种解决matplotlib中文字体的问题的优雅方式
-4. [pydingbot](https://github.com/Clarmy/pydingbot): 一个让钉钉机器人更好用的Python扩展包
-5. [pymetaf](https://github.com/Clarmy/pymetaf): 一个解析航空METAR/TAF报文的Python扩展包
-6. [MeteoDataFormatNote](https://github.com/Clarmy/MeteoDataFormatNote): 气象数据格式笔记
-
-如果觉得项目还不错，请点亮项目右上角的小黄星，不胜感谢~😘
-
-![Clarmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarmy&show_icons=true)
-
+If you find these projects helpful, please light up the little yellow star at the top right corner of the project page. Your support is greatly appreciated~😘
 
 ---
 个人网站：[Clarmy吱声](http://www.clarmy.net/)   
