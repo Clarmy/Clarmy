@@ -1,3 +1,6 @@
+# Support the Palestinian people in their struggle for survival
+![Palestine Flag](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)
+
 ### Hi there 👋
 ![github contribution grid snake animation](https://raw.githubusercontent.com/clarmy/clarmy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/clarmy/clarmy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
