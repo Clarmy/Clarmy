@@ -10,6 +10,3 @@ Below are a few projects that I've recently developed and maintained, feel free 
 * [pydingbot](https://github.com/Clarmy/pydingbot): A Python extension package that enhances the usage of DingTalk bots.
 * [pymetaf](https://github.com/Clarmy/pymetaf): A Python extension package for parsing aviation METAR/TAF messages.
 * [MeteoDataFormatNote](https://github.com/Clarmy/MeteoDataFormatNote): Meteorological data format notes.
-
-# Support the Palestinian people in their struggle for survival
-![Palestine Flag](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)
