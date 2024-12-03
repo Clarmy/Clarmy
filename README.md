@@ -5,7 +5,7 @@ Below are a few projects that I've recently developed and maintained, feel free 
 
 * [cnmaps](https://github.com/Clarmy/cnmaps): A Python extension package that smoothens the drawing of maps of China.
 * [cyeva](https://github.com/caiyunapp/cyeva): A universal deterministic forecast accuracy evaluation tool package.
-* [mplfonts](https://github.com/Clarmy/mplfonts): An elegant solution to the problem of Chinese fonts in matplotlib.
+* [mplfonts](https://github.com/Clarmy/mplfonts): An elegant solution to the problem of Asian fonts in matplotlib.
 * [pyterrain](https://github.com/Clarmy/pyterrain): A Python extension package that simplifies the acquisition of DEM data.
 * [pydingbot](https://github.com/Clarmy/pydingbot): A Python extension package that enhances the usage of DingTalk bots.
 * [pymetaf](https://github.com/Clarmy/pymetaf): A Python extension package for parsing aviation METAR/TAF messages.
