@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Clarmy, a meteorological technician based in Beijing, China. I'm an open-source enthusiast. I enjoy identifying practical needs through my work and developing them into various Python extension packages for broader use. My primary focus is on the Python programming language.
+Hi, I'm Clarmy, a meteorological technician based in Beijing, China, and an open-source enthusiast. I enjoy identifying practical needs through my work and developing Python extension packages to address them for broader use. Python is my primary programming language.
 
 Below are a few projects that I've recently developed and maintained, feel free to submit Issues or Pull Requests:
 
